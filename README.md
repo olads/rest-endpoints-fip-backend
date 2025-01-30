@@ -84,5 +84,5 @@ The application follows a simple Spring Boot architecture with a **Controller-Se
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/olads/rest-endpoints-fip-backend.git
+   cd rest-endpoints-fip-backend
